@@ -4,7 +4,7 @@
 
 ## Building infrastructure for autonomous companies.
 
-We build tools and systems that allow you to work with AI the same way you would with human teams, but better.
+Command AI like you command human organizations. Executive decisions at the top. Specialized teams below. Hierarchical execution that scales.
 
 Deterministic workflows. Shared domain knowledge. Hierarchical orchestration. 
 
