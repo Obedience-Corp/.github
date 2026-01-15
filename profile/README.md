@@ -8,7 +8,7 @@ Command AI like you command human organizations. Executive decisions at the top.
 
 Deterministic workflows. Shared domain knowledge. Hierarchical orchestration. 
 
-Systems that do exactly what you specify, every time.
+Systems that do exactly what you want them to do, every time.
 
 ---
 
