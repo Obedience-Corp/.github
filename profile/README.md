@@ -2,17 +2,17 @@
 
 **Cognitive Infrastructure for Ambitious Work.**
 
-caves -> farms -> factories -> phones/paper -> computers -> AI
+AI is increasing the supply of intelligence faster than society knows how to direct it.
 
-Every major technological shift changes what one person can do.
+The bottleneck is no longer access to capability. The bottleneck is organization: preserving intent, structuring context, coordinating execution, and verifying outcomes at scale.
 
-The only difference with AI is the speed and scale.
+Historically, applying massive effort to important problems required large teams, layers of management, and significant capital. AI changes the economics of labor, but it does not solve the problem of direction. Without the right systems, more intelligence creates more noise.
 
-The challenge is no longer generating intelligence. The challenge is directing it. Most people do not yet have the cognitive or organizational systems needed to work at 1000x or 5000x scale.
+Obedience Corp is building cognitive infrastructure for ambitious work: systems that let humans direct machine labor at scales that previously required large organizations.
 
-Historically, that level of leverage required decades of reputation, large teams, and large amounts of capital. We believe it should become accessible to everyone who has an idea of how to solve a big problem.
+Our thesis is simple: the next major layer of computing is not just intelligence, but the infrastructure required to organize and control it.
 
-Obedience Corp is building the infrastructure for that future: systems that preserve intent, follow strategy, coordinate execution, and produce auditable results that the user can comprehend.
+Festival is the first product built on that thesis.
 
 ---
 
