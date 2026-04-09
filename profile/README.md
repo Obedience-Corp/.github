@@ -12,7 +12,7 @@ The challenge is no longer generating intelligence. The challenge is directing i
 
 Historically, that level of leverage required decades of reputation, large teams, and large amounts of capital. We believe it should become accessible to everyone who has an idea of how to solve a big problem.
 
-Obedience Corp is building the infrastructure for that future: systems that preserve intent, follow strategy, coordinate execution, and produce auditable results.
+Obedience Corp is building the infrastructure for that future: systems that preserve intent, follow strategy, coordinate execution, and produce auditable results that condense vast amounts of information into something an individual can use to make a decision.
 
 Festival is the first working system built on that thesis.
 
