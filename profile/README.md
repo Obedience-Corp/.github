@@ -1,14 +1,20 @@
 # OBEDIENCE CORP
 
-**AI that does what you want. The way you want it done.**
+**Cognitive Infrastructure for Ambitious Work.**
 
-## Building infrastructure for autonomous companies.
+caves -> farms -> factories -> phones/paper -> computers -> AI
 
-Command AI like you command human organizations. Executive decisions at the top. Specialized teams below. Hierarchical execution that scales.
+Every major technological shift changes what one person can do.
 
-Deterministic workflows. Shared domain knowledge. Hierarchical orchestration. 
+The only difference with AI is the speed and scale.
 
-Systems that do exactly what you want them to do, every time.
+The challenge is no longer generating intelligence. The challenge is directing it. Most people do not yet have the cognitive or organizational systems needed to work at 1000x or 5000x scale.
+
+Historically, that level of leverage required decades of reputation, large teams, and large amounts of capital. We believe it should become accessible to everyone who has an idea of how to solve a big problem.
+
+Obedience Corp is building the infrastructure for that future: systems that preserve intent, follow strategy, coordinate execution, and produce auditable results.
+
+Festival is the first working system built on that thesis.
 
 ---
 
