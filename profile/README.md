@@ -2,7 +2,9 @@
 
 **Cognitive Infrastructure for Ambitious Work.**
 
-AI is increasing the supply of intelligence faster than society knows how to direct it.
+AI is making effort cheap. The bottleneck is no longer execution, it is direction and human cognition.
+
+We are building the systems that allow individuals to direct large-scale effort with precision, enabling them to take on problems that previously required entire organizations.
 
 The bottleneck is no longer access to capability. The bottleneck is organization: preserving intent, structuring context, coordinating execution, and verifying outcomes at scale.
 
