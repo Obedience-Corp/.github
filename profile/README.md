@@ -23,7 +23,7 @@ A hierarchy of filters — campaign → festival → phase → sequence → task
 - **[Festival](https://github.com/Obedience-Corp/festival)** — attention infrastructure applied to multi-repo engineering work. Publicly released.
 - **[camp](https://github.com/Obedience-Corp/camp)** — campaign-level workspace CLI.
 - **[fest](https://github.com/Obedience-Corp/fest)** — festival planning and execution engine.
-- **[claude-code-go](https://github.com/Obedience-Corp/claude-code-go)** — first full-featured Go SDK for Claude Code.
+- **[claude-code-go](https://github.com/lancekrogers/claude-code-go)** — first full-featured Go SDK for Claude Code.
 - More surfaces in active development.
 
 Docs: [fest.build](https://fest.build)
