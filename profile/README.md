@@ -14,20 +14,6 @@ Obedience Corp builds the operating layer that gives that control back to the us
 
 The next major layer of computing is not just intelligence. It is the infrastructure required to organize, filter, and direct it — on terms the user controls, not the platform.
 
-## How it works
-
-A hierarchy of filters — campaign → festival → phase → sequence → task → todo — where each level is a containment boundary that decides what gets surfaced upward. Hierarchy is the filter. Local-first by default: your context, your machine, your keys.
-
-## What's built
-
-- **[Festival](https://github.com/Obedience-Corp/festival)** — attention infrastructure applied to multi-repo engineering work. Publicly released.
-- **[camp](https://github.com/Obedience-Corp/camp)** — campaign-level workspace CLI.
-- **[fest](https://github.com/Obedience-Corp/fest)** — festival planning and execution engine.
-- **[claude-code-go](https://github.com/lancekrogers/claude-code-go)** — first full-featured Go SDK for Claude Code.
-- More surfaces in active development.
-
-Docs: [fest.build](https://fest.build)
-
 ---
 
 ## Contact
