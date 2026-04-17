@@ -1,29 +1,39 @@
 # OBEDIENCE CORP
 
-**Cognitive Infrastructure for Ambitious Work.**
+**User-controlled attention infrastructure.**
 
-AI is making effort cheap. The bottleneck is no longer execution, it is direction and human cognition.
+_Take back control of your attention. AI that does what you want, the way you want it done._
 
-We are building the systems that allow individuals to direct large-scale effort with precision, enabling them to take on problems that previously required entire organizations.
+---
 
-The bottleneck is no longer access to capability. The bottleneck is organization: preserving intent, structuring context, coordinating execution, and verifying outcomes at scale.
+Most of the information reaching people is controlled by other systems — social feeds, inboxes, apps, algorithms, notifications. AI shifted the interface from passive feeds to active prompt management, but users are still spending their time sorting and coordinating noise instead of focusing on what matters.
 
-Historically, applying massive effort to important problems required large teams, layers of management, and significant capital. AI changes the economics of labor, but it does not solve the problem of direction. Without the right systems, more intelligence creates more noise.
+Obedience Corp builds the operating layer that gives that control back to the user. You decide what deserves your attention, how it gets filtered, when it appears, and how much noise is allowed into your day. Set it once, let it run, and only see what is actually worth your attention.
 
-Obedience Corp is building cognitive infrastructure for ambitious work: systems that let humans direct machine labor at scales that previously required large organizations.
+## The thesis
 
-Our thesis is simple: the next major layer of computing is not just intelligence, but the infrastructure required to organize and control it.
+The next major layer of computing is not just intelligence. It is the infrastructure required to organize, filter, and direct it — on terms the user controls, not the platform.
 
-Festival is the first product built on that thesis.
+## How it works
+
+A hierarchy of filters — campaign → festival → phase → sequence → task → todo — where each level is a containment boundary that decides what gets surfaced upward. Hierarchy is the filter. Local-first by default: your context, your machine, your keys.
+
+## What's built
+
+- **[Festival](https://github.com/Obedience-Corp/festival)** — attention infrastructure applied to multi-repo engineering work. Publicly released.
+- **[camp](https://github.com/Obedience-Corp/camp)** — campaign-level workspace CLI.
+- **[fest](https://github.com/Obedience-Corp/fest)** — festival planning and execution engine.
+- **[claude-code-go](https://github.com/Obedience-Corp/claude-code-go)** — first full-featured Go SDK for Claude Code.
+- More surfaces in active development.
+
+Docs: [fest.build](https://fest.build)
 
 ---
 
 ## Contact
 
-For inquiries:
-
 [contact@obediencecorp.com](mailto:contact@obediencecorp.com)
 
 ---
 
-*Building AI systems that obey*
+*Infrastructure for a new way of working.*
