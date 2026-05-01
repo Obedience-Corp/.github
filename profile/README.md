@@ -12,7 +12,7 @@ Obedience Corp builds the operating layer that gives that control back to the us
 
 ## The thesis
 
-The next major layer of computing is not just intelligence. It is the infrastructure required to organize, filter, and direct it — on terms the user controls, not the platform.
+The next major layer of computing is not just intelligence. It is the infrastructure required to organize, filter, and direct it affordably at scale.
 
 ---
 
