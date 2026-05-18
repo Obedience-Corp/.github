@@ -1,8 +1,8 @@
 # OBEDIENCE CORP
 
-**User-controlled attention infrastructure.**
+**Operating System for AI-asisted work.**
 
-_Take back control of your attention. AI that does what you want, the way you want it done._
+_We're building the coordination and memory layer that lets people use any AI tools they want while staying in flow with full ownership and auditability._
 
 ---
 
