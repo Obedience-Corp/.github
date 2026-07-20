@@ -1,18 +1,14 @@
 # OBEDIENCE CORP
 
-**Operating System for AI-asisted work.**
+**BUILDING TOOLS AND SYSTEMS TO HELP HUMANS CONTROL AI AT SCALE.**
 
-_We're building the coordination and memory layer that lets people use any AI tools they want while staying in flow with full ownership and auditability._
+_We're building AI tools and products that ensure AI use at scale remains controllable, maintainable and affordable at scale._
 
 ---
 
-Most of the information reaching people is controlled by other systems — social feeds, inboxes, apps, algorithms, notifications. AI shifted the interface from passive feeds to active prompt management, but users are still spending their time sorting and coordinating noise instead of focusing on what matters.
+Most AI companies are focused on selling tokens, we're focused on maximizing the value you or your business get out of every token you spend. Our core product, festival, achieves 96% token cache reuse at scale over prolonged extreme usage and allows users to create sharable, domain specific workspaces for instant onboarding, high level decesion abstraction and allows each user to manage all of their agents with a consistent workflow across all the work that needs doing.  Fest cli allows our users to create complex, auditable and pre-reviewable loops that run autonomously in the background to achieve the users hardest goals autonomously, with on the fly orchestration and automatable planning based on the users custom strategy for achieving their goals without needing constant monitoring and back and forth chatting.
 
-Obedience Corp builds the operating layer that gives that control back to the user. You decide what deserves your attention, how it gets filtered, when it appears, and how much noise is allowed into your day. Set it once, let it run, and only see what is actually worth your attention.
-
-## The thesis
-
-The next major layer of computing is not just intelligence. It is the infrastructure required to organize, filter, and direct it affordably at scale.
+We believe users should have the freedom to use whatever AI tools and models are best and users should own their own data, our tools and systems are designed to add performance and decrease cognitive load through prolonged usage under the assumption of prolonged rapid innovation in ai tools. Our core systems were refined over thousands of hours of usage and product launches in 3 different niche domains before public release and everything we release publicly is used internally.
 
 ---
 
@@ -22,4 +18,4 @@ The next major layer of computing is not just intelligence. It is the infrastruc
 
 ---
 
-*Infrastructure for a new way of working.*
+*Infrastructure for a new way of working*
