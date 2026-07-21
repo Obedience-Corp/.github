@@ -6,7 +6,7 @@ _We're building AI tools and products that ensure AI use at scale remains contro
 
 ---
 
-Most AI companies are focused on selling tokens, we're focused on maximizing the value you or your business get out of every token you pay for and the time you spend chatting with agents. 
+Most AI companies are focused on selling tokens, we're focused on maximizing the value you or your business get out of every token you pay for.
 
 ---
 
